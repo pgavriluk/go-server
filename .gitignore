@@ -1,0 +1,23 @@
+.vscode
+*.code-workspace
+.idea/
+__pycache__/
+*.pyc
+/go.mod
+/go.sum
+*.pid
+*.out
+
+# Intellij
+src/tests/groovy/.idea/
+*.iws
+
+# Package Files #
+*.war
+*.ear
+
+# Product Packaging
+/bundle/
+
+# binary files
+/bin/*
